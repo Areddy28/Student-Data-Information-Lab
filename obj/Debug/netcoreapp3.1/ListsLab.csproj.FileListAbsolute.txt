@@ -1,0 +1,14 @@
+C:\Users\areddy1\source\repos\ListsLab\ListsLab\bin\Debug\netcoreapp3.1\ListsLab.exe
+C:\Users\areddy1\source\repos\ListsLab\ListsLab\bin\Debug\netcoreapp3.1\ListsLab.deps.json
+C:\Users\areddy1\source\repos\ListsLab\ListsLab\bin\Debug\netcoreapp3.1\ListsLab.runtimeconfig.json
+C:\Users\areddy1\source\repos\ListsLab\ListsLab\bin\Debug\netcoreapp3.1\ListsLab.runtimeconfig.dev.json
+C:\Users\areddy1\source\repos\ListsLab\ListsLab\bin\Debug\netcoreapp3.1\ListsLab.dll
+C:\Users\areddy1\source\repos\ListsLab\ListsLab\bin\Debug\netcoreapp3.1\ListsLab.pdb
+C:\Users\areddy1\source\repos\ListsLab\ListsLab\obj\Debug\netcoreapp3.1\ListsLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\areddy1\source\repos\ListsLab\ListsLab\obj\Debug\netcoreapp3.1\ListsLab.AssemblyInfoInputs.cache
+C:\Users\areddy1\source\repos\ListsLab\ListsLab\obj\Debug\netcoreapp3.1\ListsLab.AssemblyInfo.cs
+C:\Users\areddy1\source\repos\ListsLab\ListsLab\obj\Debug\netcoreapp3.1\ListsLab.csproj.CoreCompileInputs.cache
+C:\Users\areddy1\source\repos\ListsLab\ListsLab\obj\Debug\netcoreapp3.1\ListsLab.dll
+C:\Users\areddy1\source\repos\ListsLab\ListsLab\obj\Debug\netcoreapp3.1\ListsLab.pdb
+C:\Users\areddy1\source\repos\ListsLab\ListsLab\obj\Debug\netcoreapp3.1\ListsLab.genruntimeconfig.cache
+C:\Users\areddy1\source\repos\ListsLab\ListsLab\obj\Debug\netcoreapp3.1\ListsLab.csproj.AssemblyReference.cache
